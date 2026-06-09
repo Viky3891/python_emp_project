@@ -101,10 +101,10 @@ python app.py
 ## Screenshots
 
 ### Main Window
-![Main Window Screenshot](screenshots/main_window.PNG)
+![Main Window Screenshot](Screenshot/main_window.PNG)
 
 ### Salary Window
-![Salary Window Screenshot](screenshots/salary_window.PNG)
+![Salary Window Screenshot](Screenshot/salary_window.PNG)
 
 ---
 
