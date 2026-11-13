@@ -8,13 +8,13 @@ The objective of this project is to analyze employee data using Python and ident
 
 ## 📸 Project Screenshots
 
-### 1. Employee Data Analysis – Main Window
+### 1. Main Window
 
-![Main Window](Images/main_window.png)
+![Main Window](./main_window.png)
 
-### 2. Employee Salary Analysis – Salary Window
+### 2. Salary Window
 
-![Salary Window](Images/salary_window.png)
+![Salary Window](./salary_window.png)
 
 ## 🎯 Business Problem
 
