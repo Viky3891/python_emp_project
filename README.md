@@ -10,11 +10,11 @@ The objective of this project is to analyze employee data using Python and ident
 
 ### 1. Employee Data Analysis – Overview
 
-![Employee Analysis Overview](Images/employee_analysis_1.png)
+![Employee Analysis Overview](./Images/employee_analysis_1.png)
 
 ### 2. Employee Data Analysis – Insights & Visualization
 
-![Employee Analysis Insights](Images/employee_analysis_2.png)
+![Employee Analysis Insights](./Images/employee_analysis_2.png)
 
 ## 🎯 Business Problem
 
