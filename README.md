@@ -6,12 +6,6 @@ A comprehensive Employee Data Analysis project using Python to explore employee 
 
 The objective of this project is to analyze employee data using Python and identify important workforce trends, salary distributions and employee-related patterns to support data-driven HR decision-making.
 
-## 📸 Project Screenshots
-
-![Main Window](./Images/main_window.png)
-
-![Salary Window](./Images/salary_window.png)
-
 ## 🎯 Business Problem
 
 Organizations need insights into their workforce to:
@@ -100,8 +94,7 @@ Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, Exp
 ├── Employee_Data.csv
 ├── Employee_Analysis.ipynb
 └── Images/
-    ├── employee_analysis_1.png
-    └── employee_analysis_2.png
+    └── analysis_visualizations.png
 ```
 
 ## 🚀 How to Use
